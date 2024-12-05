@@ -1,0 +1,12 @@
+C:\Users\pedro.guarnieri\source\repos\uol-backend\uol-backend.DOMAIN\bin\Debug\net8.0\uol-backend.DOMAIN.deps.json
+C:\Users\pedro.guarnieri\source\repos\uol-backend\uol-backend.DOMAIN\bin\Debug\net8.0\uol-backend.DOMAIN.dll
+C:\Users\pedro.guarnieri\source\repos\uol-backend\uol-backend.DOMAIN\bin\Debug\net8.0\uol-backend.DOMAIN.pdb
+C:\Users\pedro.guarnieri\source\repos\uol-backend\uol-backend.DOMAIN\obj\Debug\net8.0\uol-backend.DOMAIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro.guarnieri\source\repos\uol-backend\uol-backend.DOMAIN\obj\Debug\net8.0\uol-backend.DOMAIN.AssemblyInfoInputs.cache
+C:\Users\pedro.guarnieri\source\repos\uol-backend\uol-backend.DOMAIN\obj\Debug\net8.0\uol-backend.DOMAIN.AssemblyInfo.cs
+C:\Users\pedro.guarnieri\source\repos\uol-backend\uol-backend.DOMAIN\obj\Debug\net8.0\uol-backend.DOMAIN.csproj.CoreCompileInputs.cache
+C:\Users\pedro.guarnieri\source\repos\uol-backend\uol-backend.DOMAIN\obj\Debug\net8.0\uol-backend.DOMAIN.dll
+C:\Users\pedro.guarnieri\source\repos\uol-backend\uol-backend.DOMAIN\obj\Debug\net8.0\refint\uol-backend.DOMAIN.dll
+C:\Users\pedro.guarnieri\source\repos\uol-backend\uol-backend.DOMAIN\obj\Debug\net8.0\uol-backend.DOMAIN.pdb
+C:\Users\pedro.guarnieri\source\repos\uol-backend\uol-backend.DOMAIN\obj\Debug\net8.0\ref\uol-backend.DOMAIN.dll
+C:\Users\pedro.guarnieri\source\repos\uol-backend\uol-backend.DOMAIN\obj\Debug\net8.0\uol-backend.DOMAIN.csproj.AssemblyReference.cache

@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "uol_backend.API.Controllers.JogadorController",
+    "Method": "Adicionar",
+    "RelativePath": "Jogador",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dTO",
+        "Type": "uol_backend.DOMAIN.DTOs.JogadorDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
